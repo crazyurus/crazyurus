@@ -5,7 +5,7 @@
 - 📍 Base **Wuhan**
 - 💼 Working at **[Feishu](https://github.com/larksuite)**
 - 👨‍🎓 Graduated from **Wuhan University of Technology**
-- 🌍 Blogs https://crazyurus.vercel.app
+- 🌍 Blogs https://crazyurus.vercel.app/blogs
 
 ![stats](https://github-readme-stats.vercel.app/api?username=crazyurus)
 
