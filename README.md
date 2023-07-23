@@ -8,5 +8,3 @@
 - 🌍 Website https://crazyurus.cn
 
 ![stats](https://github-readme-stats.vercel.app/api?username=crazyurus)
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=crazyurus.github.readme)
