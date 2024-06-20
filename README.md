@@ -1,7 +1,7 @@
 ### Hi, I'm Crazy Urus
 
-- 🔭 Front-end developer
-- 🍋 Interested in **React**, **Mini Program**, **Large language model**, **DevTools** and **Web Security**
+- 🔭 Front-end/Full-stack developer
+- 🍋 Interested in **React**, **Mini Program**, **Node.js**, **AI LLMs**, **DevTools** and **Web Security**
 - 📍 Base **Wuhan**
 - 💼 Working at an Internet company
 - 👨‍🎓 Graduated from **Wuhan University of Technology**
