@@ -5,6 +5,6 @@
 - 📍 Base **Wuhan**
 - 💼 Working at an Internet company
 - 👨‍🎓 Graduated from **Wuhan University of Technology**
-- 🌍 Website https://crazyurus.cn
+- 🌍 Website https://crazyurus.com
 
 ![stats](https://github-readme-stats.vercel.app/api?username=crazyurus)
