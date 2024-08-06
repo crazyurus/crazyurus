@@ -1,4 +1,4 @@
-### Hi, I'm Crazy Urus
+### Hi, I'm Crazy Urus, aka Cr4zYuRu5
 
 - 🔭 Front-end/Full-stack developer
 - 🍋 Interested in **React**, **Mini Program**, **Node.js**, **AI LLMs**, **DevTools** and **Web Security**
